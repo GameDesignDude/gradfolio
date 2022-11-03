@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Twine
+description: A simple text adventure
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+Example modified from [here](https://gamedesigndude.itch.io/twine-simple-text-adventure){:target="_blank"}.
 
 H1 Header
 ============
