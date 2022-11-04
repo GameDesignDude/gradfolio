@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Discord Bot
+description: Discord bot - Bauthrillard's Simulacra and Simulation
+redirect: https://discord.gg/Tu2xA9CT
 ---
