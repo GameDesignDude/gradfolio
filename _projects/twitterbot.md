@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Twine
-description: A simple text adventure
+title: Tracery - generate text, graphics, and more
+description: Twitter Bot
 ---
 Example modified from [here](https://gamedesigndude.itch.io/twine-simple-text-adventure){:target="_blank"}.
 

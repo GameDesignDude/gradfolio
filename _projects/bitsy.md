@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
+title: Bitsy Open Source editor
 description: Bitsy Project
 redirect: http://www.derekmanns.com/games/bitbyteboom.html
 ---
