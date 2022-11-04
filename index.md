@@ -13,4 +13,4 @@ If you want to use this space to write your biography here, edit the `index.md` 
 
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
 
-Hello World! I am Derek, Ph.D. Student in the [Text & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. with a concentration in Digital Media.
+Hello World! I am Derek, Ph.D. Student in the [Text & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. program with a concentration in Digital Media.
