@@ -50,10 +50,10 @@ collections:
     order:
       - bitsy.md
       - borksy.md
-      - discord.md
       - scalar.md
       - twine.md
       - twitterbot.md
+      - discord.md
 
 sass:
   sass_dir: /assets/css/_sass
