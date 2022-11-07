@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: Twitter bot - Alter Ego 
 profile:
   align: right
