@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello World! I am Derek, Ph.D. Student in the [Text & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. program with a concentration in [Digital Media].
+Hello World! I am Derek, Ph.D. Student in the [Texts & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. program with a concentration in [Digital Media].
 
 My professional development experience and teaching interests include Game Design, Level Design, 3D modeling, and Programming.
 
