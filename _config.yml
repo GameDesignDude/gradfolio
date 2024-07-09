@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "GameDesignDude"
-linkedin: "#"
-stackoverflow: "#"
+twitter: "GmeDesignDude"
+linkedin: "derekmanns"
+//stackoverflow: "#"
 github: "GameDesignDude"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "GameDesignDude"
-facebook: "#"
+//researchgate: "#"
+//orcid: "#"
+//quora: "#"
+//instagram: "GameDesignDude"
+//facebook: "#"
 
 
 # Markdown
