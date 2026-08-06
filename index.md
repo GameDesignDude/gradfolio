@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello World! I am Derek, Ph.D. candidate in the [Texts & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. program with a concentration in [Digital Media].
+Hello World! My name is Derek Manns, Ph.D. [Texts & Technology](https://cah.ucf.edu/textstech/){:target="_blank"} Ph.D. program with a concentration in [Digital Media].
 
 My professional development experience and teaching interests include Game Design, Level Design, 3D modeling, and Programming.
 
