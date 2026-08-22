@@ -4,8 +4,8 @@ title: Derek Manns
 description: Ph.D. Candidate | UCF | Game & Level Designer and Professor
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "https://gamedesigndude.github.io" #custom url to be used instead of GitHub repository
+email: dereklmanns@gmail.com
 
 # Pagination
 paginate: 4
@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "GmeDesignDude"
+twitter: "https://twitter.com/GameDesignDude"
 linkedin: "derekmanns"
 //stackoverflow: "#"
-github: "GameDesignDude"
-//researchgate: "#"
-//orcid: "#"
+github: "https://github.com/GameDesignDude"
+researchgate: "https://www.researchgate.net/profile/Derek-Manns?ev=hdr_xprf"
+orcid: "https://orcid.org/0009-0008-3081-6357"
 //quora: "#"
 //instagram: "GameDesignDude"
 //facebook: "#"
