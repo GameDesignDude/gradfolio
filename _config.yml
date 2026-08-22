@@ -1,10 +1,10 @@
 ### your site title here
 
 title: Derek Manns
-description: Ph.D. Candidate | UCF | Game & Level Designer and Professor
+description: Ph.D. Graduate | UCF | Game & Level Designer and Professor
 
 baseurl: /gradfolio #name of GitHub repository
-url: "https://gamedesigndude.github.io" #custom url to be used instead of GitHub repository
+url: https://gamedesigndude.github.io #custom url to be used instead of GitHub repository
 email: dereklmanns@gmail.com
 
 # Pagination
