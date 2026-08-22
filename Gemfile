@@ -7,6 +7,9 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-email-protect'
   gem 'jekyll-target-blank'
+  gem 'wdm', '>= 0.1.0' if Gem.win_platform? 
+  Auto-regeneration: enabled for 'K:/GitHub/gradfolio'
+    Server address: http://127.0.0.1:4000/gradfolio/
 end
 
 gem "webrick", "~> 1.7"
